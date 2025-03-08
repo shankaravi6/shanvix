@@ -9,12 +9,12 @@
   <div>
     <a
       href={`mailto:${email}`}
-      class="text-neutral-600 text-lg hover:text-amber-900"
+      class="text-neutral-600 tracking-[.15rem] text-lg hover:text-amber-900"
     >
       {email}
     </a>
   </div>
-  <div class="flex flex-wrap justify-center gap-4">
+  <div class="flex flex-wrap justify-center gap-5">
     {#each socialLinks && socialLinks as project}
       <p
         class="tracking-[0.1rem] text-neutral-600 hover:text-amber-900 text-sm md:text-base"
