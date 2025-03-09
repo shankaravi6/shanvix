@@ -40,7 +40,7 @@
 
     <!-- Main Content Section -->
     <div
-      class="w-full flex sm:flex-col-reverse flex-col-reverse lg:flex-row justify-between items-center gap-10 mt-10"
+      class="w-full flex sm:flex-col-reverse flex-col-reverse lg:flex-row justify-between items-center gap-10 mt-5"
     >
       <!-- Left Column: Text Content -->
       <div class="lg:w-9/12 w-full left-content">

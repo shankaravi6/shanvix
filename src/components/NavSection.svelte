@@ -4,7 +4,7 @@
 </script>
 
 <div
-  class="flex flex-col lg:flex-row justify-between items-center gap-5 py-5 lg:py-3 md:py-2 sm:py-2 relative email-text"
+  class="flex flex-col lg:flex-row justify-between items-center gap-5 py-5 lg:py-2 md:py-2 sm:py-2 relative email-text"
 >
   <div>
     <a
