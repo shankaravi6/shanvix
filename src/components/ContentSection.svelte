@@ -9,8 +9,8 @@
     <p
       class="flex flex-col lg:flex-row md:flex-col xs:flex-col sm:flex-col items-center gap-5 text-[clamp(1.5rem,5vw,3rem)] text-neutral-700 tracking-[.5rem]"
     >
-      <span class="title-font">MERN</span>
-      <span class="w-full text-center">Full Stack Developer</span>
+      <!-- <span class="title-font">MERN</span> -->
+      <span class="w-full text-center">MERN Stack Developer</span>
     </p>
     <span
       class="iconify text-[3rem] md:text-[5rem] text-neutral-700"
