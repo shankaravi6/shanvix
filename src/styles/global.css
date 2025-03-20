@@ -8,6 +8,13 @@
 }
 
 @font-face {
+  font-family: "Grailga";
+  src: url("../assets/fonts/Grailga.otf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
   font-family: "Jost";
   src: url("../assets/fonts/Jost-Regular.ttf") format("truetype");
   font-weight: normal;
@@ -26,7 +33,7 @@ body {
 }
 
 .title-font {
-  font-family: "Garamond", serif !important;
+  font-family: "Grailga", serif !important;
 }
 
 .email-text::after {
