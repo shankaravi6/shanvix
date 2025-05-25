@@ -27,7 +27,7 @@
 </script>
 
 <div
-  class="min-h-screen w-full bg-orange-100 flex flex-col items-center justify-center pl-10 pr-10"
+  class="min-h-screen w-full bg-orange-200 flex flex-col items-center justify-center pl-10 pr-10"
 >
   <div
     class="w-full max-w-8xl flex flex-col justify-center lg:pb-5 md:pb-10 sm:pb-10 pb-10"
